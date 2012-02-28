@@ -8,6 +8,6 @@ import (
 
 func SayHello(){
 
-	fmt.Println("Hello")
+	fmt.Println("Call from github.com/mabetle/mabetle-go-utils/string.SayHello()")
 }
 
