@@ -1,11 +1,11 @@
-package main
+package ex
 
 import (
 	"fmt"
 )
 
 
-func main(){
+func hello(){
 	fmt.Println("Exercise")
 }
 
