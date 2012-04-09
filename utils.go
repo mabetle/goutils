@@ -1,4 +1,4 @@
-package utils
+package mabetle_go_utils
 
 import (
 	"fmt"
