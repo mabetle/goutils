@@ -1,4 +1,4 @@
-package string
+package str
 
 import (
 	"fmt"
@@ -8,6 +8,6 @@ import (
 
 func SayHello(){
 
-	fmt.Println("Call from github.com/mabetle/mabetle-go-utils/string.SayHello()")
+	fmt.Println("Call from github.com/mabetle/mabetle_go_utils/str.SayHello()")
 }
 
