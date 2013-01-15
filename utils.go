@@ -1,16 +1,19 @@
-package mabetle_go_utils
+package goutils
 
 import (
 	"fmt"
 )
 
+//
+const(
+	VERSION			="1.0.0"
+	VENDOR			="Mabetle"
+	VENDOR_URL		="http://mabetle.com"
+)
 
-func PkgSign(){
-	fmt.Println("Mabetle Go Utils Package")
+
+// show version
+func ShowVersion(){
+	fmt.Println(VERSION)
 }
-
-func Hello(){
-	fmt.Println("Hello from package utils")
-}
-
 

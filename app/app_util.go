@@ -1,3 +1,4 @@
+// package app
 package app
 
 import (
@@ -5,10 +6,9 @@ import (
 )
 
 
+// End sign for app
 func End(){
 	fmt.Println("End")
 }
-
-
 
 

@@ -1,14 +1,12 @@
+// HelloWorld example.
 package main
 
 import (
 	"fmt"
-	"github.com/mabetle/mabetle_go_utils/str"
 )
 
-
-
+// HelloWorld
 func main(){
-	fmt.Println("Hello")
-	str.SayHello()
+	fmt.Println("Hello, World!")
 }
 

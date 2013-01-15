@@ -1,3 +1,4 @@
+// package str utils
 package str
 
 
@@ -5,13 +6,14 @@ import (
 	"fmt"
 )
 
-
-
-func UpperCase(){
-	fmt.Println("To UpperCase")	
+// UpperCase
+func UpperCase(v string) string{
+	return v
 }
 
-func LowerCase(){
-	fmt.Println("To LowerCase")
+// LowerCase
+func LowerCase(v string) string{
+	return v
 }
+
 
